@@ -37,7 +37,7 @@
 
 13. [Python Development](https://github.com/mikeroyal/IBM-Cloud-Guide/blob/main/README.md#python-development)
 
-14. [Swift Development](https://github.com/mikeroyal/IBM-Cloud-Guide/blob/main/README.md#bashpowershell-development)
+14. [Swift Development](https://github.com/mikeroyal/IBM-Cloud-Guide/blob/main/README.md#swift-development)
 
 
   <img src="https://user-images.githubusercontent.com/45159366/116304978-fd624000-a757-11eb-93bf-166a037ac889.png">
@@ -288,8 +288,7 @@
 [IBM Quantum Lab](https://www.ibm.com/quantum-computing/tools/lab)  is a service to build quantum applications and experiments with Qiskit in a cloud programming environment.
 
 
-# IBM Cloud Tools Integration
-
+# IBM Cloud DevOps Tools Integration
 
 [Back to the Top](https://github.com/mikeroyal/IBM-Cloud-Guide/blob/main/README.md#table-of-contents)
 
