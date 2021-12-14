@@ -8,6 +8,10 @@
  
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/146078000-111f6b8c-4f9b-4982-bad5-519324548d17.png">
+  <br />
+</p>
  
 # Table of Contents
 
@@ -44,10 +48,6 @@
   
  **IBM Cloud with Red Hat OpenShift. Source: [IBM](https://www.ibm.com/cloud/architecture/architectures/ibm-cloud-private-red-hat-openshift/reference-architecture)**
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/116304986-ffc49a00-a757-11eb-9cdc-bb74b4f42fc1.png">
-  <br />
-</p>
 
 # IBM Cloud Learning Resources
 
